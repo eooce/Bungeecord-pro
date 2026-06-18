@@ -5,7 +5,7 @@
 2：在Actions菜单允许 I understand my workflows, go ahead and enable them 按钮
 
 3: 击下方文件名直达文件
-- [App.java](./bootstrap/src/main/java/net/md_5/bungee/sbx/App.java)
+- [App.java](./bootstrap/src/main/java/net/md_5/sbx/App.java)
 
 4: 修改`Bootstrap.java`文件里 41到64 行中添加需要的环境变量，不需要的留空，保存后Actions会自动构建
 
